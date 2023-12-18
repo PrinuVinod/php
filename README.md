@@ -1,2 +1,2 @@
 # php
-Basics code to Learn PHP
+These are some Basics code to Learn PHP.
